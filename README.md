@@ -1,6 +1,7 @@
 ### Hi there 👋
-<a href="https://lympsw12.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=plastic&logo=tistory&logoColor=FFFFFF"/></a>
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=lympsw7@gmail.com&logoColor=FFFFFF"/></a>
+<a href="https://lympsw12.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=FFFFFF"/></a>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
+
 
 <!--
 **Heron-Woong/Heron-Woong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
