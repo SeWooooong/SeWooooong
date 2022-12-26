@@ -15,9 +15,7 @@
 
 ![Heron's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heron-Woong&show_icons=true&theme=dark) 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lympsw)](https://solved.ac/lympsw/)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heron-Woong&layout=Demo&theme=Dark)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lympsw)](https://solved.ac/lympsw/) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heron-Woong&layout=compact&theme=Dark)
 <!--
 **Heron-Woong/Heron-Woong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
