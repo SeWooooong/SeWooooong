@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://lympsw12.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/000000?style=plastic&logo=file:///C:/Logo/tistory.svg&logoColor=FFFFFF"/></a>
+<a href="https://lympsw12.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=plastic&logo=tistory&logoColor=FFFFFF"/></a>
 
 
 <!--
