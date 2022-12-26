@@ -3,7 +3,9 @@
 <img src="https://img.shields.io/badge/lympsw7@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/>
 
 
-MY Stack
+<h2>MY Stack</h2>
+
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=00599C"/>
 
 
 
