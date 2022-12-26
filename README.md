@@ -1,6 +1,6 @@
 ### Hi there 👋
 <a href="https://lympsw12.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=FFFFFF"/></a>
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/>lympsw7@gmail.com</a>
 
 
 <!--
