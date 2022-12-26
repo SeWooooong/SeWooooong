@@ -7,7 +7,7 @@ MY Stack
 
 
 
-<a>MY Status</a>
+<h2>MY Status</h2>
 ![Heron's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heron-Woong&show_icons=true&theme=dark)
 
 <!--
