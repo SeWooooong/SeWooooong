@@ -4,7 +4,7 @@
 
 
 
-![Heron's GitHub stats](https://github-readme-stats.vercel.app/api?username=lympsw12@naver.com&show_icons=true&theme=radical)
+![Heron's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heron-Woong&show_icons=true&theme=radical)
 
 
 <!--
