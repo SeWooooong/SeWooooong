@@ -3,6 +3,10 @@
 <img src="https://img.shields.io/badge/lympsw7@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/>
 
 
+
+![Heron's GitHub stats](https://github-readme-stats.vercel.app/api?username=lympsw7@gmail.com&show_icons=true&theme=radical)
+
+
 <!--
 **Heron-Woong/Heron-Woong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
