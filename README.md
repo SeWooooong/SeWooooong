@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Sewooooong)
+
 <h1>Park Se Woong</h1>
 
 <a href="https://lympsw12.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=FFFFFF"/></a>
