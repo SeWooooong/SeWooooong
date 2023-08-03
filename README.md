@@ -13,8 +13,7 @@
 
 <h2>💻MY Status</h2>
 
-![Heron's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeWooooong&show_icons=true&theme=dark) <br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lympsw)](https://solved.ac/lympsw/) <br>
+![Heron's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeWooooong&show_icons=true&theme=dark) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeWooooong&layout=compact&theme=dark)
 <!--
 **Heron-Woong/Heron-Woong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
