@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Sewooooong)
 
-<h1>Park Se Woong</h1>
+<h1>Park Se Wung</h1>
 
 <a href="https://lympsw12.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/lympsw7@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/>
