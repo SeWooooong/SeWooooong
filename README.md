@@ -17,6 +17,13 @@
 | 🔄 버전 관리 & CI/CD (Version Control & CI/CD) | ![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=FFFFFF) ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=FFFFFF) ![GitLab CI/CD Badge](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=flat-square&logo=GitLab&logoColor=FFFFFF) ![ArgoCD Badge](https://img.shields.io/badge/ArgoCD-EB5A46?style=flat-square&logo=Argo&logoColor=FFFFFF) |
 | 🕵️ Observability | ![Prometheus Badge](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=FFFFFF) ![Grafana Badge](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=FFFFFF) ![Jaeger Badge](https://img.shields.io/badge/Jaeger-009688?style=flat-square&logo=Jaeger&logoColor=FFFFFF) ![AWS CloudWatch Badge](https://img.shields.io/badge/AWS_CloudWatch-FF4F8B?style=flat-square&logo=Amazon-AWS&logoColor=FFFFFF) |
 
+<h2>🏅 자격증 (Certifications)</h2>
+
+| **로고** | **자격증 이름** | **발급 기관** |
+| --- | --- | --- |
+| <div style="text-align: center;"><img src="https://img.shields.io/badge/Linux_Master_2급-FCC624?style=flat-square&logo=Linux&logoColor=FFFFFF" alt="Linux Badge" width="50"/></div> | 리눅스마스터 2급 | 한국정보통신기술협회 |
+| <div style="text-align: center;"><img src="https://github.com/user-attachments/assets/adbdaee3-a25f-4841-b9e5-1e0b9bb78f7d" alt="AWS SAA" width="50"/></div> | AWS SAA | Amazon Web Services |
+| <div style="text-align: center;"><img src="https://github.com/user-attachments/assets/6007862a-2492-4014-8825-3ae14fa28210" alt="CKA" width="50"/></div> | CKA (Certified Kubernetes Administrator) | CNCF (Cloud Native Computing Foundation) |
 
 
 
