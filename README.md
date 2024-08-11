@@ -21,11 +21,9 @@
 
 | **로고** | **자격증 이름** | **발급 기관** |
 | --- | --- | --- |
-| <div style="text-align: center;"><img src="https://img.shields.io/badge/Linux_Master_2급-FCC624?style=flat-square&logo=Linux&logoColor=FFFFFF" alt="Linux Badge" width="50"/></div> | 리눅스마스터 2급 | 한국정보통신기술협회 |
+| <div style="text-align: center;"><img src="https://github.com/user-attachments/assets/08f3a548-524a-4824-81ea-f61509157d06" alt="Linux Badge" width="50"/></div> | 리눅스마스터 2급 | 한국정보통신기술협회 |
 | <div style="text-align: center;"><img src="https://github.com/user-attachments/assets/adbdaee3-a25f-4841-b9e5-1e0b9bb78f7d" alt="AWS SAA" width="50"/></div> | AWS SAA | Amazon Web Services |
 | <div style="text-align: center;"><img src="https://github.com/user-attachments/assets/6007862a-2492-4014-8825-3ae14fa28210" alt="CKA" width="50"/></div> | CKA (Certified Kubernetes Administrator) | CNCF (Cloud Native Computing Foundation) |
-
-
 
 <h2>💻MY Status</h2>
 
